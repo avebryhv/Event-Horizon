@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4045d69808678764e9e585a2d6d9cec6
+timeCreated: 1525768021
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shield: {instanceID: 0}
+  - shockwave: {instanceID: 0}
+  - self: {instanceID: 0}
+  - implode: {fileID: 1174712185703714, guid: 8211d8a7054b4124db7dfaf7ec2f6a57, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
