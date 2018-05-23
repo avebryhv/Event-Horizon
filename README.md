@@ -1,5 +1,10 @@
 # Event-Horizon
 
+AINT 152 Submission
+
+Student Name: Avebry Houghton-Vowles
+Student Number: 10579644
+
 Had to create a new repo due to an error uploading files to the original
 Link to original repo: https://github.com/avebryhv/AINT152Shooter
 
